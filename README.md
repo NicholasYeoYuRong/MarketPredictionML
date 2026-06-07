@@ -6,7 +6,6 @@ Learning Rate & Num of Epochs is tuned based on the stock META. Requires re-tuni
 
 Project uses: UV, JupyterLab, VS code
 
-# To run project on JupyterLab: #
+## To run project on JupyterLab: ##
 
-## Run on Terminal ##
-uv run JupyterLab
+Run on Terminal: uv run JupyterLab
