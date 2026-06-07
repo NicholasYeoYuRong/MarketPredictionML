@@ -1,4 +1,4 @@
-MARKET PREDICTION MACHINE LEARNING
+# MARKET PREDICTION MACHINE LEARNING #
 
 Model used: LSTM (Long Short-Term Memory) a variant of Recurrent Neural Network
 
@@ -8,4 +8,4 @@ Project uses: UV, JupyterLab, VS code
 
 To run project on JupyterLab:
 
-uv run JupyterLab
+## uv run JupyterLab ## 
